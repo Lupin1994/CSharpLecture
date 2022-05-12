@@ -50,7 +50,3 @@ int max = Max(
     Max(a3, b3, c3));
 
 Console.WriteLine(max);
-
-
-
-
