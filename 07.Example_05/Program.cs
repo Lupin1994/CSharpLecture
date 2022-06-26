@@ -36,3 +36,6 @@ void FindWords(string alphabet, char[] word, int length = 0)
     }
 }
 FindWords("аисв", new char[3]);
+
+
+
